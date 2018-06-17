@@ -1,7 +1,7 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+//import ReactDOM from 'react-dom';
 
-import '../Business/Business.css';
+import './BusinessList.css';
 import Business from '../Business/Business';
 
 class BusinessList extends React.Component {
